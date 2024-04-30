@@ -1,0 +1,13 @@
+.card{
+  margin: 50px;
+}
+
+#titulo-principal{
+  text-align: center;
+}
+.contenedor-mascotas{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
