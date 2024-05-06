@@ -18,13 +18,19 @@ boton.addEventListener('click', () => {
     // const response = createBtnSucces()
     // main.appendChild(response)
     // main.innerHTML += `<button type= "button" class = "btn btn-success"> hello</button>`
+
+    // removeChild
     
     // const btnForElimination = selectOneBtn()
     // main.removeChild(btnForElimination)
 
+    // ReplaceChild
+
     // const newButton = createBtnSucces()
     // const existentBtn = selectOneBtn()
     // main.replaceChild(newButton,existentBtn)
+
+    // insertBefore
 
     const nuevoBoton = createBtnSucces()
     const btnReference = selectOneBtn()
